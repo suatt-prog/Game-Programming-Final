@@ -1,6 +1,6 @@
 # Game-Programming-Final
 Oyun Linki : https://simmer.io/@suattprog/final-bird-hunter                                
-Oynanış: Oyun W A D tuşları hareket ederek ve mouse ile nişan alarak gelen kuşları (düşmanları) vurmaya çalışıp belli bir mesafe gittikten sonra kazanılıyor. Oyuncu ilk başta başladığında ateş edemiyor ilerleyerek silahı alması gerekiyor. Vurulmadan birinci sahnenin sonuna gelebilirseniz bölüm 2ye geçilecek, vurulmadan 2. böümün de sonuna gelinirse oyun kazanılacak ve ana menüye geçilecektir. ESC tuşuna basarak oyunu durdurabilir, kaydedebilir veya yeniden başlatabilirsiniz.                                
+Oynanış: Oyun StartMenüden başlıyor başlangıç sahnesi olarak StartMenu seçilmelidir. Oyun W A D tuşları hareket ederek ve mouse ile nişan alarak gelen kuşları (düşmanları) vurmaya çalışıp belli bir mesafe gittikten sonra kazanılıyor. Oyuncu ilk başta başladığında ateş edemiyor ilerleyerek silahı alması gerekiyor. Vurulmadan birinci sahnenin sonuna gelebilirseniz bölüm 2ye geçilecek, vurulmadan 2. böümün de sonuna gelinirse oyun kazanılacak ve ana menüye geçilecektir. ESC tuşuna basarak oyunu durdurabilir, kaydedebilir veya yeniden başlatabilirsiniz.                                
 <br/>
 <br/>
 Oyun Görselleri:                                              
